@@ -1,0 +1,20 @@
+
+.background{
+  background-color: darkgoldenrod;
+}
+/* #faf7e4 */
+.titolo{
+  font-size: 14px;
+  color: #faf7e4;
+}
+
+.bottone{
+  background-color: darkgoldenrod;
+  color: #faf7e4;
+}
+
+.footer{
+  color: #faf7e4;
+  font-size: 0.65em;
+}
+
